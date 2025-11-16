@@ -1,6 +1,3 @@
-## Hi there 👋
-
-Bartu Cevahir
 
 <h1 align="center">👋 Merhaba, Ben Bartu Cevahir</h1>
 
@@ -8,6 +5,15 @@ Bartu Cevahir
   🚀 Python Öğrencisi | 💻 Git & GitHub Yeni Başlayan | 📚 Sürekli Öğrenme Yolunda
 </p>
 
+## 🧑‍💻 Hakkımda
 
+- 🌱 Şu anda **Python** ve **Git/GitHub** öğreniyorum.  
+- 🔧 Küçük projeler geliştirerek pratik yapmayı seviyorum.  
+- 🎯 Hedefim: Yazılım dünyasında kendimi geliştirerek profesyonel projeler oluşturmak.
+
+## 🌐 Sosyal Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Bartu Cevahir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 Pythone01
 
