@@ -18,6 +18,6 @@
 
   
 <img  width="150"  src="https://png.pngtree.com/png-vector/20230418/ourmid/pngtree-vector-design-of-monogram-initials-bc-logo-a-graphic-alphabet-symbol-for-corporate-businesses-vector-png-image_48181510.jpg" alt="Örnek Resim"/>.
-<img  width="150"  src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/TyPVzfWm46.gif" alt="Örnek Resim"/>.
+
 
 
