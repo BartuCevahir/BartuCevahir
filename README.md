@@ -17,5 +17,4 @@
   <a href="https://www.linkedin.com/in/Bartu Cevahir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   
-<img width="50"
-<img src="https://png.pngtree.com/png-vector/20230418/ourmid/pngtree-vector-design-of-monogram-initials-bc-logo-a-graphic-alphabet-symbol-for-corporate-businesses-vector-png-image_48181510.jpg" alt="Örnek Resim"/>.
+<img  width="50"  src="https://png.pngtree.com/png-vector/20230418/ourmid/pngtree-vector-design-of-monogram-initials-bc-logo-a-graphic-alphabet-symbol-for-corporate-businesses-vector-png-image_48181510.jpg" alt="Örnek Resim"/>.
