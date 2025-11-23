@@ -16,4 +16,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/Bartu Cevahir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- <img src="[ornek.jpg](https://png.pngtree.com/templates/20180907/bc-logo-png_31656.jpg)" alt="Örnek Resim"/>.
+ <img src="https://png.pngtree.com/templates/20180907/bc-logo-png_31656.jpg" alt="Örnek Resim"/>.
